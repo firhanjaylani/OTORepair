@@ -1,4 +1,3 @@
 Kelompok 
-Ahmad Lekha Reza (2222105002)
-Adnan Liansor Harahap ()
-Abdul Muhyi Arlansyah ()
+Muhamad Firhan Jaylani (12110093)
+Adrian Bagas Pradana (2222105027)
